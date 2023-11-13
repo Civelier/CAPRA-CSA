@@ -1,0 +1,15 @@
+{
+    "recommendations": [
+        "formulahendry.auto-rename-tag",
+        "njpwerner.autodocstring",
+        "ms-python.black-formatter",
+        "batisteo.vscode-django",
+        "ecmel.vscode-html-css",
+        "ritwickdey.liveserver",
+        "esbenp.prettier-vscode",
+        "ms-python.vscode-pylance",
+        "ms-python.python",
+        "donjayamanne.python-environment-manager",
+        "donjayamanne.python-extension-pack"
+    ]
+}
